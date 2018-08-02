@@ -1,0 +1,1 @@
+app.controller('mytwoCtrl', ['$scope', function($scope){}])

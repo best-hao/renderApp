@@ -1,0 +1,1 @@
+app.controller('myfiveCtrl', ['$scope', function($scope){}])
